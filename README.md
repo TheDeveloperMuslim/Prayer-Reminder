@@ -77,4 +77,4 @@ Prayer Reminder V0.1 - First Version<br>
 Supports Egypt (Cairo) & (Alexandria) only<br>
 Keeps working offline till 7-05-2027<br>
 Don't forget me in your prayer<br>
-Download from here : https://thedevelopermuslim.github.io/https://thedevelopermuslim.github.io/assets/Prayer%20Reminder.zip
+Download from here : https://thedevelopermuslim.github.io/assets/Prayer%20Reminder.zip
